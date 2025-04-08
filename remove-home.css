@@ -1,0 +1,27 @@
+ytd-comments,
+ytd-watch-next-secondary-results-renderer, 
+ytd-rich-metadata-row-renderer, 
+ytd-comment-view-model,
+ytd-comment-thread-renderer,
+ytd-live-chat-frame,
+ytd-comments-header-renderer,
+ytd-rich-grid-renderer,
+ytd-topbar-logo-renderer,
+tp-yt-app-drawer,
+ytd-masthead,
+ytd-merch-shelf-renderer,
+#bottom-row,
+#secondary,
+#survey,
+#actions,
+#subscribe-button,
+#sponsor-button,
+#purchase-button,
+#analytics-button
+{
+	visibility: collapse;
+	display: none;
+	max-width: 0px;
+	max-height: 0px;
+}
+
